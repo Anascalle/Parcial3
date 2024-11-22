@@ -1,0 +1,19 @@
+@media (max-width: 740px) {
+  .poem-creation-step h1 {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+    margin-top: 9rem;
+  }
+
+  .poem-creation-step label {
+    font-size: 0.8rem;
+  }
+
+  .poem-creation-step input {
+    max-width: 100%;
+  }
+
+  .poem-creation-step button {
+    padding: 0.5rem 1.5rem;
+  }
+}
